@@ -1,0 +1,19 @@
+<view class="content">
+	<image class='background' src="../../icon/back2.jpg" mode="aspectFill"></image>
+</view>
+
+<view class='top'>{{txt}}{{ans}}</view>
+<view class='point2'>
+ <image src='{{two_img}}'></image>
+ <image src='{{three_img}}'></image>
+ <image src='{{four_img}}'></image>
+ <image src='{{five_img}}'></image>
+ <image src='{{six_img}}'></image>
+ <image src='{{one_img}}'></image>
+</view>
+<view class="container">
+    <view class='btn' bindtap='enter'>{{msg}}</view>
+</view>
+
+
+

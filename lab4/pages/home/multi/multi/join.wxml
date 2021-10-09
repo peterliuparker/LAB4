@@ -1,0 +1,5 @@
+<view class="content">
+	<image class='background' src="../../../../icon/back2.jpg" mode="aspectFill"></image>
+</view>
+<button class="num">房间号</button>
+<button class="password">密码</button>

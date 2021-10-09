@@ -1,0 +1,9 @@
+<!--pages/home/home.wxml-->
+<view class="content">
+	<image class='background' src="../../icon/back1.jpg" mode="aspectFill"></image>
+</view>
+<button bindtap="tp_single" class="single">单人博饼</button>
+<button bindtap="tp_multi" class="multi">多人博饼</button>
+<view class="container">
+	<button bindtap="tp_his" class="history">博饼历史</button>
+</view>

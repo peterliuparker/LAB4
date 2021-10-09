@@ -1,0 +1,45 @@
+{
+  "pages":[
+    "pages/home/home",
+    "pages/rules/rules",
+    "pages/user/user",
+    "pages/home/bb_history/bb_history",
+    "pages/home/multi/multi",
+    "pages/home/multi/multi/create",
+    "pages/home/multi/multi/join",
+    "pages/single/single"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor":  "#000018",
+    "navigationBarTitleText": "中秋博饼",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "list": [
+      {
+      "pagePath": "pages/home/home",
+      "text": "博饼大厅",
+      "iconPath": "icon/_home.png",
+      "selectedIconPath": "icon/home.png"
+    },
+    {
+      "pagePath": "pages/rules/rules",
+      "text": "博饼规则",
+      "iconPath": "icon/_rule.png",
+      "selectedIconPath": "icon/rule.png"
+    },
+    {
+      "pagePath": "pages/user/user",
+      "text": "用户",
+      "iconPath": "icon/_user.png",
+      "selectedIconPath": "icon/user.png"
+    }
+  ],
+    "color": "#ffffff",
+    "selectedColor": "#e1bb7c",
+    "backgroundColor": "#000018"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

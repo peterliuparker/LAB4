@@ -1,0 +1,4 @@
+<!--pages/rules/rules.wxml-->
+<view class="content">
+	<image class='background' src="../../icon/back3.jpg" mode="aspectFill"></image>
+</view>
